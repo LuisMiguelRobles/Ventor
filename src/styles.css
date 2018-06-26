@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+
+.fondo{
+    background-image: url('assets/img/software-keyboard-code-1024x570.jpg');
+    background-size: cover;
+}
+
+.info{
+    color: #fff;
+}
+.fa{
+    color:#14A0E6;
+}
